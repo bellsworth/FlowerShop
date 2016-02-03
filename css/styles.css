@@ -7,14 +7,17 @@ body {
 }
 header {
     width: 100%;
-    height: 80px;
+    height: 150px;
     background-color: black;
 }
 .sans {
-    font-family: "Fira Sans";
+    font-family: "Open Sans";
 }
 .serif {
-    font-family: "Mirador";
+    font-family: "Georgia";
+}
+.mission {
+    color: white;
 }
 .left {
     background-color: aquamarine;
@@ -66,6 +69,9 @@ p {
     margin: 0px;
     width: 100%;
     display: block;
+}
+.mission {
+    display: inline;
 }
 @media screen and (min-width: 641px) {
     .bucket {
