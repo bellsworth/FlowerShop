@@ -1,5 +1,6 @@
 body {
     margin: 0px;
+    font-family: 'Permanent Marker', cursive;
 }
 .bucket {
     max-width: 640px;
@@ -8,28 +9,28 @@ body {
 header {
     width: 100%;
     height: 80px;
-    background-color: black;
+    background-color: #FF8ABE;
 }
 .sans {
-    font-family: "Fira Sans";
+    font-family: "Permanent Marker";
 }
 .serif {
-    font-family: "Mirador";
+    font-family: "Permanent Marker";
 }
 .left {
-    background-color: aquamarine;
+    background-color: #71FF75;
     width: 96.875%;
     margin: 10px 1.5625%;
 }
 .right {
-    background-color: bisque;
+    background-color: #FF71B0;
     width: 96.875%;
     margin: 10px 1.5625%;
 }
 footer {
     width: 100%;
     height: 60px;
-    background-color: black;
+    background-color: #B23D71;
 }
 h1 {
     margin: 0px;
